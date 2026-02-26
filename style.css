@@ -11,12 +11,11 @@ body {
 section {
   width: 100%;
   min-height: 100vh;
-
   > .book {
     width: 200px;
     height: 300px;
     /* border: 1px solid white; */
-    margin: calc(100% - 150px) auto;
+    margin: 200px auto;
     position: relative;
     transform-style: preserve-3d;
     transition: 3s;
