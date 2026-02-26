@@ -10,7 +10,7 @@ body {
 
 section {
   width: 100%;
-  min-height: 100vh;
+  min-height: 100px;
   > .book {
     width: 200px;
     height: 300px;
